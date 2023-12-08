@@ -42,6 +42,8 @@ class CVTasks(object):
     human_wholebody_keypoint = 'human-wholebody-keypoint'
     pedestrian_attribute_recognition = 'pedestrian-attribute-recognition'
 
+    speech_driven_avatar = "speech-driven-avatar"
+
     image_classification = 'image-classification'
     image_multilabel_classification = 'image-multilabel-classification'
     image_classification_imagenet = 'image-classification-imagenet'
